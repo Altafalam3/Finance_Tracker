@@ -1,6 +1,6 @@
 INSERT INTO users (name, email, password) VALUES
-('Arun Kumar', 'arun@example.com', 'password123'),
-('Demo User', 'demo@example.com', 'demo123');
+('Altaf', 'altaf526@gmail.com', 'altaf123'),
+('Veerendra', 'veeru@gmail.com', 'veeru123');
 
 INSERT INTO accounts (user_id, name, type, balance) VALUES
 (1, 'HDFC Savings', 'BANK', 50000.00),
